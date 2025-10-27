@@ -1,11 +1,6 @@
 # 🧠 Milestone 1 – Smart Purchase Pattern Analyzer
 
-## 🏷️ Project Title: **AI-Based Consumer Behavior Analysis using Data-Driven Insights**
-
-**Internship:** Infosys Springboard – _Study Track: AI-Based Student Study Habit Recommender_  
-**Milestone:** 1 – Data Preprocessing and Exploratory Data Analysis (EDA)  
-**Intern:** Astle Joe A S  
-**Domain:** Artificial Intelligence & Machine Learning
+## 🏷️ Project Title: **AI-Based Consumer Behavior Analysis using Data-Driven Insights*
 
 ---
 
@@ -98,19 +93,6 @@ The EDA phase focuses on discovering **patterns, correlations, and insights** us
 | **Preprocessing**   | Scikit-learn (LabelEncoder, scaling) |
 | **Environment**     | Google Colaboratory                  |
 | **Version Control** | GitHub                               |
-
----
-
-## 📘 Folder Structure
-
-```
-Milestone1/
-├── Milestone1_EDA.ipynb # Main Colab Notebook
-├── data/
-│ ├── customer_details.csv # Customer dataset
-│ └── basket_details.csv # Basket/transaction dataset
-└── README.md # Project overview and report
-```
 
 ---
 
